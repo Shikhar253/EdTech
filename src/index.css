@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #1B2431;
+}
+
+input:focus-within ~ label {
+  @apply text-blue-500;
+}
+.outline input:focus-within ~ label,
+.outline input:not(:placeholder-shown) ~ label {
+  @apply transform scale-75 -translate-y-5 z-0 ml-1 px-1 py-0;
+}
+
+.sent {
+  background-color: #1B2431;
+  color: white;
+  border-top-right-radius: 1000px;
+  flex-direction: row-reverse;
+  padding: 5px;
+  text-align: end;
+  float: right;
+}
+
+.received {
+  border: 1px solid lightgray;
+  background-color: #fafafa;
+  border-top-left-radius: 1000px;
+  float: left;
+}
