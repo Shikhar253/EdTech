@@ -4,7 +4,6 @@ import Home from '../pages/Home';
 export default function Main() {
     return (
         <BrowserRouter>
-            <Navbar />
             <Routes>
                 <Route path="/" element={<Home />} />
             </Routes>

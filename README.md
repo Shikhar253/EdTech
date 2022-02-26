@@ -39,6 +39,15 @@ We are using GitHub for **Collaboration**. GitHub makes it easy to share code wi
 - We learned how to use the best tools and frameworks to make the project work.
 - How to implement Firebase authentication and Firestore database.
 
-## 🚀 What's next for Good Space
+## 🚀 What's next for APPNAME
 
 - A mobile app version
+
+## NOTE
+
+This project was inspired from [chemfun.vercel.app](https://chemfun.vercel.app/).
+Chenges made:
+
+- We have added the **Augmented Reality** feature for the biology topics.
+- We **rendering the 3D models** for the biology topics.
+- We have changed the **UI** of the app.
