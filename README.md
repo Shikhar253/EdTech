@@ -13,6 +13,10 @@
 - Firestore: For Database
 - GitHub Pages: For hosting
 
+## 🤝 Most Creative Use of GitHub
+
+We are using GitHub for **Collaboration**. GitHub makes it easy to share code with others and helps a lot in collaboration. GitHub makes it easy to set up a project and get started. GitHub makes it easy to implement the **CI/CD workflow** and makes the deployment process easy. **Deploying** the project on GitHub helped us to get the project deployed on the network to be accessed by other people.
+
 ## ⛅ MLH- Best Use of Google Cloud
 
 We are using Firebase for **database and authentication**. Cloud Firestore is a flexible, scalable real-time, high-performance database for mobile, web, and server development from Firebase and Google Cloud. Firebase is a free service and easy to use.
@@ -20,10 +24,6 @@ We are using Firebase for **database and authentication**. Cloud Firestore is a 
 ## 🌐 MLH- Best Domain Name from Domain.com
 
 - Any domain name with .tech, eg longitude.tech . We will choose the best domain name among all.
-
-## 🤼 Most Creative Use of GitHub
-
-We are using GitHub for **Collaboration**. GitHub makes it easy to share code with others and helps a lot in collaboration. GitHub makes it easy to set up a project and get started. GitHub makes it easy to implement the **CI/CD workflow** and makes the deployment process easy. **Deploying** the project on GitHub helped us to get the project deployed on the network to be accessed by other people.
 
 ## 🧠 Challenges we ran into
 
@@ -45,9 +45,9 @@ We are using GitHub for **Collaboration**. GitHub makes it easy to share code wi
 
 ## NOTE
 
-This project was inspired from [chemfun.vercel.app](https://chemfun.vercel.app/).
-Chenges made:
+This project was inspired from [chemfun.vercel.app](https://chemfun.vercel.app/). Chenges made by us for this project:
 
 - We have added the **Augmented Reality** feature for the biology topics.
 - We **rendering the 3D models** for the biology topics.
+- We have deployed the project on **GitHub Pages**.
 - We have changed the **UI** of the app.
