@@ -1,4 +1,4 @@
-# EdTech
+# EduTech
 
 ## 💡 Inspiration
 
@@ -39,7 +39,7 @@ We are using Firebase for **database and authentication**. Cloud Firestore is a 
 - We learned how to use the best tools and frameworks to make the project work.
 - How to implement Firebase authentication and Firestore database.
 
-## 🚀 What's next for EdTech
+## 🚀 What's next for EduTech
 
 - A mobile app version
 
