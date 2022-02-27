@@ -1,17 +1,17 @@
 import firebase from 'firebase'
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyAl6n-Ws-btSCuonsJCgMlspW6sEg3kkXI",
-  authDomain: "good-space-1b61c.firebaseapp.com",
-  projectId: "good-space-1b61c",
-  storageBucket: "good-space-1b61c.appspot.com",
-  messagingSenderId: "225114188693",
-  appId: "1:225114188693:web:1a5393ab7115b6f759649c",
-  measurementId: "G-6LPVK0DSSR"
+  apiKey: "AIzaSyAluVbyLpBiASdZB4sJ3TQY2tFK0MspPTA",
+  authDomain: "edutech-1d4e1.firebaseapp.com",
+  projectId: "edutech-1d4e1",
+  storageBucket: "edutech-1d4e1.appspot.com",
+  messagingSenderId: "215407200653",
+  appId: "1:215407200653:web:0921780701841ac9d255c4",
+  measurementId: "G-6XYK4RK88X"
 })
 
 const firestore = firebase.firestore()
 
 const auth = firebase.auth()
 
-export {firestore, auth, app}
+export { firestore, auth, app }
