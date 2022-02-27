@@ -1,5 +1,6 @@
 import React from 'react'
 import HomeImg from "../assets/home.svg"
+import { Link } from "react-router-dom"
 
 export default function Home() {
     return (
