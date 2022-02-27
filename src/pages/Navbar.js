@@ -24,6 +24,10 @@ const Navbar = () => {
             <li className="text-xl">
               <Link to="/chatroom">CHAT</Link>
             </li>
+
+            <li className="text-xl bg-secondary px-3 py-2 rounded-lg ">
+              <Link to="/chatroom">Logout</Link>
+            </li>
             
           </ul>
         </div>
