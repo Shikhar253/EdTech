@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Navbar from './Navbar'
 import Home from '../pages/Home';
 import Learn from '../pages/Learn';
 import Brain from '../pages/Brain';
@@ -11,6 +12,7 @@ import Chatroom from '../pages/Chatroom';
 export default function Main() {
     return (
         <BrowserRouter>
+            <Navbar />
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/learn" element={<Learn />} />

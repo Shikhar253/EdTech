@@ -57,8 +57,8 @@ function Details() {
         <p className="self-center mx-8 text-xl tracking-wide text-justify">To view the 3D model in AR, scan the QR code or click on the button below.</p>
 
         <div className="grid justify-center grid-cols-1 gap-2 pb-8 mx-8 md:grid-cols-2 lg:grid-cols-2">
-          <img className="flex p-6 text-6xl rounded-xl h-48 w-48" src="https://storage.echo3d.co/morning-hill-2019/4b3a1617-6b86-4f35-bcbb-b773cc7a86d6.png" alt="QR Code" />
-          <a href="https://go.echo3d.co/kdXX" target="_blank" rel="noreferrer">
+          <img className="flex p-6 text-6xl rounded-xl h-48 w-48" src="https://storage.echo3d.co/morning-hill-2019/5b4aded6-0a68-4f72-9446-2b31a6366f5a.png" alt="QR Code" />
+          <a href="https://go.echo3d.co/xmyz" target="_blank" rel="noreferrer">
             <button className="h-12 px-8 ml-8 text-base font-semibold tracking-wider text-white border rounded-full shadow-sm mt-16 bg-red-50 bg-gradient-to-r from-purple-400 via-purple-500 to-pink-500  hover:shadow-lg">View in AR</button>
           </a>
         </div>

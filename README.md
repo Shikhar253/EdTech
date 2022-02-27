@@ -1,4 +1,4 @@
-# APPNAME
+# EdTech
 
 ## 💡 Inspiration
 
@@ -39,13 +39,13 @@ We are using Firebase for **database and authentication**. Cloud Firestore is a 
 - We learned how to use the best tools and frameworks to make the project work.
 - How to implement Firebase authentication and Firestore database.
 
-## 🚀 What's next for APPNAME
+## 🚀 What's next for EdTech
 
 - A mobile app version
 
 ## NOTE
 
-This project was inspired from [chemfun.vercel.app](https://chemfun.vercel.app/). Chenges made by us for this project:
+This project is inspired from [chemfun.vercel.app](https://chemfun.vercel.app/). Chenges made by us for this project:
 
 - We have added the **Augmented Reality** feature for the biology topics.
 - We **rendering the 3D models** for the biology topics.
