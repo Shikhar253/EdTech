@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/edtech/static/css/main.ccb9c824.css",
+    "main.js": "/edtech/static/js/main.d8b1be43.js",
+    "static/js/787.f0daed87.chunk.js": "/edtech/static/js/787.f0daed87.chunk.js",
+    "static/media/HumanMuscle.jpeg": "/edtech/static/media/HumanMuscle.21ea9fbd077d99949b89.jpeg",
+    "static/media/humanSkull.jpeg": "/edtech/static/media/humanSkull.e89369550fdde7108ba7.jpeg",
+    "static/media/humanStomach.jpeg": "/edtech/static/media/humanStomach.0f80a02a8321d7f9512a.jpeg",
+    "static/media/humanBrain.jpeg": "/edtech/static/media/humanBrain.9d8ab875259295d330d1.jpeg",
+    "static/media/google_logo.png": "/edtech/static/media/google_logo.817fc47ec0a54e16b482.png",
+    "static/media/home.svg": "/edtech/static/media/home.c27dfadc5e78142c9ad148a1fa779097.svg",
+    "static/media/humanLungs.jpeg": "/edtech/static/media/humanLungs.09be8b8d6a4d2336888a.jpeg",
+    "static/media/login.svg": "/edtech/static/media/login.4b49e1145e8d37452cc34bd7ddcc065b.svg",
+    "index.html": "/edtech/index.html",
+    "main.ccb9c824.css.map": "/edtech/static/css/main.ccb9c824.css.map",
+    "main.d8b1be43.js.map": "/edtech/static/js/main.d8b1be43.js.map",
+    "787.f0daed87.chunk.js.map": "/edtech/static/js/787.f0daed87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb9c824.css",
+    "static/js/main.d8b1be43.js"
+  ]
+}
